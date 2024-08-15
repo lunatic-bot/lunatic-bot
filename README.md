@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to My GitHub Profile
 
-Hi there! I'm Atal Bajpai, a passionate and results-driven Backend Developer with over 3 years of experience in the tech industry. I specialize in building scalable and efficient backend systems, with a keen interest in Python programming, APIs, Machine Learning, Data Science, and Robotic Process Automation (RPA).
+Hi there! I'm Atal Bajpai, a passionate and results-driven Backend Developer with almost 4 years of experience in the tech industry. I specialize in building scalable and efficient backend systems, with a keen interest in Python programming, APIs, Machine Learning, Data Science, and Robotic Process Automation (RPA).
 
 - 🔭 I’m currently working on ... FastAPI, Python, MySql
 - 🌱 I’m currently learning ... Frontend Development
