@@ -6,7 +6,7 @@ Hi there! I'm Atal Bajpai, a passionate and results-driven Backend Developer wit
 
 - 🔭 I’m currently working on ... FastAPI, Python, MySql, PostgreSQL
 - 🌱 I’m currently learning ... Frontend Development
-- 👯 I’m looking to collaborate on ...Backend Development, Machine Learning
+- 👯 I’m looking to collaborate on ...Backend Development, Machine Learning, GenAI
 - 🤔 I’m looking for help with ...FrontEnd Development
 - 💬 Ask me about ...Python, Backend Development, RPA
 - 📫 How to reach me: ... atalbajpai771@gmail.com
