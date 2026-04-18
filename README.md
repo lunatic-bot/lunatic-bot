@@ -1,13 +1,12 @@
 # Atal Bajpai - Senior Python Engineer
 
-## 👋 Welcome to My GitHub Profile
 
-Hi there! I'm Atal Bajpai, a passionate and results-driven Backend Developer with 4+ years of experience in the tech industry. I specialize in building scalable and efficient backend systems and problem solving, with a keen interest in Python programming, APIs, Machine Learning, Data Science, and Robotic Process Automation (RPA).
+Hi there! I'm Atal Bajpai, a passionate and results-driven Backend Developer with 5+ years of experience in the tech industry. I specialize in building scalable and efficient backend systems and problem solving, with a keen interest in Python programming, APIs, GenAI, Machine Learning, Data Science, and Robotic Process Automation (RPA).
 
-- 🔭 I’m currently working on ... FastAPI, Python, MySql, PostgreSQL
-- 🌱 I’m currently learning ... Frontend Development
-- 👯 I’m looking to collaborate on ...Backend Development, Machine Learning, GenAI
-- 🤔 I’m looking for help with ...FrontEnd Development
+- 🔭 I’m currently working on ... FastAPI, Python, MySql, PostgreSQL, GenAI, Agents
+- 🌱 I’m currently learning ... GenAI, Agentic AI
+- 👯 I’m looking to collaborate on ...Backend Development, Machine Learning, GenAI, Agents
+- 🤔 I’m looking for help with ... Agentic AI
 - 💬 Ask me about ...Python, Backend Development, RPA
 - 📫 How to reach me: ... atalbajpai771@gmail.com
 
@@ -24,7 +23,7 @@ I've had the privilege of working in diverse environments, starting my journey a
 
 Currently, I'm part of the dynamic team at Ipsos, where I continue to hone my skills. My work involves:
 
-- **Backend Development**: Python, FastAPI
+- **Backend Development**: Python, FastAPI, GenAI
 - **Machine Learning**: Developing models and algorithms
 - **SQL**: MySQL, database creation, querying database
 
@@ -40,6 +39,7 @@ Looking forward to connecting with you!
 ## 🔧 Technologies & Tools
 
 - Python
+- GenAI, Agentic AI, LLMs
 - SQL
 - FastAPI
 - Machine Learning
