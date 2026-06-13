@@ -32,7 +32,7 @@ Currently, I'm part of the dynamic team at Ipsos, where I continue to hone my sk
 
 I'm always eager to connect with fellow professionals, collaborate on exciting projects, and explore new opportunities. Let's connect and see how we can drive innovation in the world of technology!
 
-Feel free to reach out to me via email at [atalbajpai771@gmail.com](mailto:atalbajpai771@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/atal-bajpai).
+Feel free to reach out to me via email at [atalbajpai771@gmail.com](mailto:atalbajpai771@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/atalbajpai/).
 
 Looking forward to connecting with you!
 
