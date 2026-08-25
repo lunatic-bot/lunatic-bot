@@ -23,7 +23,7 @@ I've had the privilege of working in diverse environments, starting my journey a
 
 Currently, I'm part of the dynamic team at Ipsos, where I continue to hone my skills. My work involves:
 
-- **Backend Development**: Python, FastAPI, GenAI
+- **Backend Development**: Python, FastAPI, GenAI, RAG Systems
 - **Machine Learning**: Developing models and algorithms
 - **SQL**: MySQL, database creation, querying database
 
